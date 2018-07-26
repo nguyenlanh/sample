@@ -1,4 +1,4 @@
-# Churn Predictor Sample Project
+# Churn Prediction PAYTV Project
 
 > This is a Turi sample for churn prediction. Explore the [gallery](https://turi.com/learn/gallery/) to see other examples.  
 
